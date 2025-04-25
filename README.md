@@ -239,7 +239,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this project repository from GitHub.
+1. **Clone the Repository**: Clone this project repository https://github.com/Safa-Ali-Ahmed/Retail-Sales-Analysis.git.
 2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
 3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
@@ -247,5 +247,10 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
+## Feedback
+If you have any suggestions or feedback, feel free to open an issue or connect with me [LinkedIn](https://www.linkedin.com/in/safaali-da/).
+  
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 
